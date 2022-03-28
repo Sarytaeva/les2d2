@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">les2d2</string>
+    <string name="set">Set</string>
+    <string name="random">Random</string>
+</resources>
